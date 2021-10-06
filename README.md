@@ -5,4 +5,4 @@
 
 ?> 您可以点击【左侧】菜单按钮，展开侧边栏目录 **(移动设备在左上角)**
 
-[常见问题FAQ](/zh-CN/guide/faq.md) | [申请白名单](/zh-CN/join/whitelist.md) | [新人指南](/zh-CN/guide/playerGuide.md) | [子服列表](/zh-CN/guide/serverInfo.md) |  [服务器规定](/zh-CN/join/rules.md) 
+[常见问题FAQ]--待添加| 

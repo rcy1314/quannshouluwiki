@@ -1,20 +1,20 @@
 - [首页]()
 - 关于站点  
-    - [网址网址收录](/zh-CN/join/rules.md)
-    - [申请白名单](/zh-CN/join/whitelist.md)
-    - [邀请他人](/zh-CN/join/application/inviters.md)
+    - 使用说明--待添加
+    - 收录指标--待添加
+    - 加入方式--待添加
 - 网址网址收录  
     - [实用网站博客站收录](/zh-CN/join/WB.md)
     - [论坛社区网站汇总收录](/zh-CN/join/luntan.md)
     - [设计新媒体类网站收录](/zh-CN/join/sheji.md)
     - [优质导航站收录](/zh-CN/join/daohang.md)
-    - [常见问题FAQ](/zh-CN/guide/faq.md)
-- 游戏内容
-    - [玩家组织](/zh-CN/culture/group.md)
-    - 特殊机制 (建设中)
-    - 公共规划区 (建设中)
-    - 服务器地图 (建设中)
-    - 交通路线 (建设中)
-- [隐私保护](/zh-CN/privacy/privacy.md)
-- [更新日志](/zh-CN/changelogs/readme.md)
-- [捐赠](https://www.mcshiyi.com/donateserver.html ':target=_blank')
+    - [常见问题FAQ]--待添加
+- 软件推荐
+    - Adobe系列下载--待添加
+    - CG设计软件 (--待添加)
+    - 下载工具箱 (--待添加)
+    - 视频解析专用(--待添加)
+    - 交通路线 (--待添加)
+- [隐私保护]--待添加
+- [更新日志]--待添加
+- [捐赠]--待添加
