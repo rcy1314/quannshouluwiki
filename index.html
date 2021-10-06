@@ -50,7 +50,14 @@
                 noData: 'Not Found',
                 namespace: 'TimoryWiki',
             },
-
+            plugins: [
+                EditOnGithubPlugin.create(
+                    'https://github.com/rcy1314/quannshouluwiki/',
+                    null,
+                   "wiki"
+                )
+           ]
+        }
     </script>
     <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
     
