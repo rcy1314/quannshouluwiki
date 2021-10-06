@@ -1,17 +1,3 @@
----
-
-title: BT种子站汇总
-urlname: bt
-tags: [BT种子站]
-cover: https://p.pstatp.com/origin/pgc-image/70cb571134ec41e4a9ba3aadec77df8f
-categories:
-- [网站收录]
-layout: page
-aplayer: true
-dplayer: true
-
----
-
 # 一些PT种子站地址
 
 直接点击即可访问

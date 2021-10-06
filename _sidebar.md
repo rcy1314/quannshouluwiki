@@ -3,10 +3,11 @@
     - [网址网址收录](/zh-CN/join/rules.md)
     - [申请白名单](/zh-CN/join/whitelist.md)
     - [邀请他人](/zh-CN/join/application/inviters.md)
-- 时忆指南   
-    - [新人向导](/zh-CN/guide/playerGuide.md)
-    - [服务器地址/版本](/zh-CN/guide/serverInfo.md)
-    - [指令列表](/zh-CN/guide/commands.md)
+- 网址网址收录  
+    - [实用网站博客站收录](/zh-CN/join/WB.md)
+    - [论坛社区网站汇总收录](/zh-CN/join/luntan.md)
+    - [设计新媒体类网站收录](/zh-CN/join/sheji.md)
+    - [优质导航站收录](/zh-CN/join/daohang.md)
     - [常见问题FAQ](/zh-CN/guide/faq.md)
 - 游戏内容
     - [玩家组织](/zh-CN/culture/group.md)
