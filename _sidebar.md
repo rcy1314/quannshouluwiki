@@ -1,6 +1,6 @@
 - [首页]()
 - 关于站点  
-    - [服务器规定](/zh-CN/join/rules.md)
+    - [网址网址收录](/zh-CN/join/rules.md)
     - [申请白名单](/zh-CN/join/whitelist.md)
     - [邀请他人](/zh-CN/join/application/inviters.md)
 - 时忆指南   
